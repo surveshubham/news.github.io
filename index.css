@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+img.d-block.w-100 {
+    HEIGHT: 400PX;
+}
+
+
+
+#card{
+ width: 100%;
+}
+
+.card{
+ width: 100%;
+ margin: 0 auto;
+ margin-top: 3px;
+}
+
+.foot{
+    text-align: center;
+    color: white;
+}
